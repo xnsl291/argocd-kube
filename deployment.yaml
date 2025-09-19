@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: 
+      - image: hana13123/docker-repo:47e1ada
         name: argocd-kube-container
